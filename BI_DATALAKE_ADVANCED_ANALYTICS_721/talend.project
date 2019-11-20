@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_WokM4AvsEeqzfoeSqUVCfw" label="bi-datalake-advanced-analytics_721" description="" language="java" technicalLabel="BI_DATALAKE_ADVANCED_ANALYTICS_721" creationDate="2019-11-20T16:14:44.000-0700" author="_WokM4QvsEeqzfoeSqUVCfw" productVersion="Talend Real-time Big Data Platform-7.2.1.20190620_1446" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/humapathy/bi-talend-datalake-721-hari.git&quot;,&quot;login&quot;:&quot;humapathy@beachbody.com&quot;,&quot;passwd&quot;:&quot;4enSL5WW1C06H/RdrFtrmikEkL1IUkfr1UCWeWFR/M9IQEP+IKAOfu43Z+8BqY8g&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ">
+    <migrationTask xmi:id="_WoyPUAvsEeqzfoeSqUVCfw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_WokM4QvsEeqzfoeSqUVCfw" login="pmitra-ext@beachbody.com" firstName="Partha" lastName="Mitra" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
